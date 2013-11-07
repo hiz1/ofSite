@@ -162,6 +162,7 @@ _description: _
 <!----------------------------------------------------------------------------->
 
 ###void ofSoundUpdate()
+Updates sound engine. This should be called every frame to play sounds correctly.
 
 <!--
 _syntax: ofSoundUpdate()_
